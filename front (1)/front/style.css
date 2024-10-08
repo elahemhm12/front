@@ -1,0 +1,23 @@
+*{
+    direction: ;
+    font-family: vazirmatn;
+}
+.catsounds{
+padding: 26px;
+margin: 10px;
+border: 5px solid purple;
+}
+.cattext{
+margin: 20px;
+}
+.title{
+    text-align: center;
+    border: 2px solid rgb(255, 102, 128);
+    background-color: #;
+}
+/* #mycat {
+    margin: 2px auto;
+} */
+div#catdigi img{
+    width: 100%;
+}
