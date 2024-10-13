@@ -1,0 +1,19 @@
+#textone{
+    color: cadetblue;
+    text-align: center;
+    border:5px
+     solid burlywood
+}
+footer{
+    clear: ;
+}
+footer>a{
+    display: block;
+}
+section>p{
+    text-align: justify;
+    float: left;
+    width: 20%;
+    padding: 13px;
+    border:2px solid black
+}
