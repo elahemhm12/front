@@ -1,0 +1,55 @@
+*{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: ;
+}
+main>div{
+    float: left;
+    /* width: 33.3%; */
+}
+.header{
+    height: 60px;
+    padding: 15px;
+    border: 2px solid #2196f3;
+    background-color: #d3eafe;
+    text-align: center;
+    /* width: 50%; */
+}
+.main{
+    height: 60px;
+    padding: 15px;
+    border: 2px solid #2196f3;
+    background-color: #d3eafe;
+    text-align: center;
+    /* width: 50%; */
+}
+.footer{
+    height: 60px;
+    padding: 15px;
+    border: 2px solid #2196f3;
+    background-color: #d3eafe;
+    text-align: center; 
+    /* width: 50%; */
+
+}
+.menu{
+    height: 180px;
+    padding: 15px;
+    border: 2px solid #2196f3;
+    background-color: #d3eafe;
+    text-align: center;
+    width: 20%;
+}
+.right{
+    height: 180px;
+    padding: 15px;
+    border: 2px solid #2196f3;
+    background-color: #d3eafe;
+    text-align: center;
+    width: 30%;
+}
+.hi{
+    width: 50%;
+}
+
+/pwa-icon-180.png
