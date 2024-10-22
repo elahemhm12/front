@@ -1,0 +1,58 @@
+*{
+    box-sizing: border-box;
+   margin: 0;
+   direction: ltr;
+
+}
+header{
+    text-align: center;
+    border: 1px solid black;
+    padding: 50px;
+}
+div#second>div{
+    float: left;
+}
+div#left{
+    width: 30%;
+    border: 1px solid black;
+    height: 400px;
+    text-align: center;
+}
+div#right{
+    width: 70%;
+    border: 1px solid black;
+}
+#right2{
+    width: 70%;
+    float: left;
+    border: 1px solid black;
+    
+}
+#main{
+    width: 70%;
+    text-align: center;
+    border: 1px solid black;
+    height: 80px;
+}
+div#three{
+    width: 35%;
+text-align: center;
+border: 1px solid black;
+float: right;
+height: 80px;
+}
+#three2{
+    width: 35%;
+    /* text-align: center; */
+    float: right;
+    height: 295px;
+    border: 1px solid black;
+}
+#lump{
+    width: 17%;
+    text-align: center;
+    border: 1px solid black;
+    clear: both;
+    float: right;
+
+}
